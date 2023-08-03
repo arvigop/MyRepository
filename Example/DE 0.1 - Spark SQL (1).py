@@ -52,7 +52,7 @@
 # MAGIC SELECT name, price
 # MAGIC FROM products
 # MAGIC WHERE price < 200
-# MAGIC ORDER BY price
+# MAGIC ORDER BY prices
 
 # COMMAND ----------
 
